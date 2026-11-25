@@ -1,0 +1,9 @@
+ASİLEREN MOBİLYA - FOTOĞRAF VE VİDEO GÜNCELLEMESİ
+
+1. Bu ZIP dosyasını bilgisayarınızda çıkarın.
+2. GitHub asileren437-blip/mobilya-atolyesi > Add file > Upload files.
+3. ZIP içindeki tüm dosyaları ve assets klasörünü kök dizine yükleyin.
+4. Commit changes seçin; Pages dağıtımını bekleyin.
+5. Google doğrulama dosyanızı silmeyin.
+
+19 gerçek fotoğraf WebP formatında, 3 video MP4 ve 3 video kapak fotoğrafı eklendi. Videolar kullanıcı tıklayana kadar yüklenmez. Fotoğraf kategorileri görsellere göre tahmin edilmiştir; yayınlamadan önce doğrulayın. TV ünitesi fotoğrafı arşivde olmadığı için uydurulmadı.
