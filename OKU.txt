@@ -1,0 +1,13 @@
+ASILEREN MOBILYA - ANA SAYFA KATEGORI DUZELTMESI
+
+Bu paket yalnizca index.html dosyasini gunceller.
+GitHub deposunda Add file > Upload files yoluyla index.html dosyasini yukleyin ve Commit changes'a basin.
+Diger dosyalari, assets klasorunu, sitemap.xml ve Google dogrulama dosyasini silmeyin.
+
+Duzeltmeler:
+- TV unitesi gorseli: Cam Kapakli Gardirop
+- Vestiyer gorseli: Cam Vitrin & Ozel Dolap
+- Banyo dolabi gorseli: Beyaz Mutfak Dolaplari
+- Galeri dekoratif dolap filtre ve etiketleri duzeltildi.
+
+Bu paket yeni bir foto eklemez, mevcut gorselleri korur.
