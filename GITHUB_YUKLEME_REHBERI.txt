@@ -1,0 +1,12 @@
+ASİLEREN MOBİLYA - SEO GÜNCELLEMESİ
+
+GitHub: asileren437-blip / mobilya-atolyesi
+1. ZIP içindeki dosyaları bilgisayara çıkarın.
+2. GitHub deponuzda Add file > Upload files seçin.
+3. Dosyaların tamamını (klasörün kendisini değil) yükleyin.
+4. Aynı isimli index.html dosyasının güncellenmesini onaylayın.
+5. Commit changes ile kaydedin.
+6. Pages yayını birkaç dakika sonra yenilenir.
+7. Search Console > Site Haritaları bölümüne sitemap.xml yazıp gönderin.
+
+Not: Görseller örnek fotoğraflardır; gerçek proje olarak sunulmamalıdır.
